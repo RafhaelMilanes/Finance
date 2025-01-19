@@ -71,7 +71,7 @@ const TransactionsPieChart = ({
     },
   ];
   return (
-    <Card className="flex flex-col p-12">
+    <Card className="flex flex-col p-5">
       <CardHeader>
         <CardTitle>Resumo</CardTitle>
         <CardDescription>Resumo das transações</CardDescription>
