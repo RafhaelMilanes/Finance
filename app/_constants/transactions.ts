@@ -4,6 +4,16 @@ import {
   TransactionsType,
 } from "@prisma/client";
 
+export const TRANSACTION_PAYMENT_METHOD_ICONS = {
+  [TransactionsPaymentMethod.CREDIT_CARD]: "credit-card.svg",
+  [TransactionsPaymentMethod.DEBIT_CARD]: "credit-card.sv",
+  [TransactionsPaymentMethod.BANK_TRANSFER]: "boleto.svg",
+  [TransactionsPaymentMethod.BANK_SPLIT]: "boleto.svg",
+  [TransactionsPaymentMethod.CASH]: "money.svg",
+  [TransactionsPaymentMethod.PIX]: "pix.svg",
+  [TransactionsPaymentMethod.OTHER]: "other.svg",
+};
+
 export const TRANSACTION_CATEGORY_LABEL = {
   EDUCATION: "Educação",
   ENTERTAINMENT: "Entreterimento",
