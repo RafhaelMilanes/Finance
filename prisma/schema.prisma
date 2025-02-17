@@ -42,6 +42,7 @@ enum TransactionsCategory {
   UTILITY
   SALARY
   EDUCATION
+  WEDDING
   OTHER
 }
 

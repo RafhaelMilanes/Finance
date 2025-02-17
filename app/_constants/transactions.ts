@@ -24,6 +24,7 @@ export const TRANSACTION_CATEGORY_LABEL = {
   SALARY: "Salário",
   TRANSPORTATION: "Transporte",
   UTILITY: "Utilidades",
+  WEDDING: "Casamento",
 };
 
 export const TRANSACTION_PAYMENT_METHOD_LABEL = {
@@ -122,5 +123,9 @@ export const TRANSACTION_CATEGORY_OPTIONS = [
   {
     value: TransactionsCategory.UTILITY,
     label: TRANSACTION_CATEGORY_LABEL[TransactionsCategory.UTILITY],
+  },
+  {
+    value: TransactionsCategory.WEDDING,
+    label: TRANSACTION_CATEGORY_LABEL[TransactionsCategory.WEDDING],
   },
 ];
