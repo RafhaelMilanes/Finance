@@ -149,9 +149,11 @@ const UpserTransactionDialog = ({
                     <MoneyInput
                       placeholder="Digite o valor"
                       value={field.value}
-                      onValueChange={({ floatValue }: { floatValue: number }) =>
-                        field.onChange(floatValue)
-                      }
+                      onValueChange={(values) => {
+                        const { floatValue } = values; // Desestrutura floatValue de 'values'
+                        const safeFloatValue = floatValue ?? 0; // Garante que floatValue nunca seja undefined
+                        field.onChange(safeFloatValue); // Passa o valor seguro para o campo
+                      }}
                       onBlur={field.onBlur}
                       disabled={field.disabled}
                     />
