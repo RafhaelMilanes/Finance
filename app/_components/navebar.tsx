@@ -31,7 +31,7 @@ const Navbar = () => {
         >
           Transações
         </Link>
-        <Link
+        {/* <Link
           href="/subscriptions"
           className={
             pathname === "/subscriptions"
@@ -40,7 +40,7 @@ const Navbar = () => {
           }
         >
           Assinaturas
-        </Link>
+        </Link> */}
       </div>
 
       <UserButton showName />
