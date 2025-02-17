@@ -3,7 +3,7 @@ import Navbar from "../_components/navebar";
 import { redirect } from "next/navigation";
 import { Card, CardContent, CardHeader } from "../_components/ui/card";
 import { CheckIcon, XIcon } from "lucide-react";
-import { Button } from "../_components/ui/button";
+// import { Button } from "../_components/ui/button";
 // import AcquirePlanButton from "./_components/acquire-plan-button";
 
 const SubscriptionsPage = async () => {
