@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Finance.app
+
+<img width="1273" alt="Image" src="https://github.com/user-attachments/assets/a9f9c09b-0240-4bfb-8863-4f9403967810" />
+
+<img width="1277" alt="Image" src="https://github.com/user-attachments/assets/b09a3b16-275e-42a8-ad7e-eaca1d5ae5c5" />
+
+<img width="1268" alt="Image" src="https://github.com/user-attachments/assets/ce92e4a2-58df-4225-94d9-c560f46b9d20" />
+
+<img width="1267" alt="Image" src="https://github.com/user-attachments/assets/5f22676f-bcdf-4496-b259-20298efe0fd4" />
+
+<img width="1270" alt="Image" src="https://github.com/user-attachments/assets/c7bdade9-dbbb-4bc7-a602-6ecb23f9440e" />
 
 ## Getting Started
 
