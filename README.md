@@ -1,5 +1,7 @@
 ## Finance.app
 
+Finance.app é uma aplicação de controle financeiro que permite registrar e organizar seus gastos de maneira simples e eficiente. Com ela, você pode cadastrar despesas e dividi-las em categorias específicas, facilitando a visualização e o acompanhamento do seu orçamento. A plataforma oferece uma forma intuitiva de analisar seus gastos, ajudando a ter um controle mais preciso sobre suas finanças pessoais.
+
 <img width="1273" alt="Image" src="https://github.com/user-attachments/assets/a9f9c09b-0240-4bfb-8863-4f9403967810" />
 
 <img width="1277" alt="Image" src="https://github.com/user-attachments/assets/b09a3b16-275e-42a8-ad7e-eaca1d5ae5c5" />
